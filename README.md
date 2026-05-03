@@ -1,4 +1,4 @@
-<img src="https://github.com/kahiquedev-ux/kahiquedev-ux/blob/main/assets/banner.png" />
+<img src="https://raw.githubusercontent.com/kahiquedev-ux/kahiquedev-ux/main/assets/banner.png" />
 
 <h1 align="center">Olá! Eu sou Kahique Smith👋</h1>
 
