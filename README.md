@@ -1,6 +1,4 @@
-<<h1 align="center">Olá! Eu sou Kahique Smith 👋</h1>
-
-<img src="https://raw.githubusercontent.com/kahiquedev-ux/kahiquedev-ux/main/assets/banner.png" />
+<h1 align="center">Olá! Eu sou Kahique 👋</h1>
 
 <p align="center">
   💻 Desenvolvedor Frontend <br/>
@@ -8,12 +6,17 @@
   🚀 Apaixonado por tecnologia
 </p>
 
+<img src="https://raw.githubusercontent.com/kahiquedev-ux/kahiquedev-ux/main/assets/banner.png" />
+
+
+---
+
 ## 🧠 Sobre mim
 
-Tenho 20 anos e sou desenvolvedor frontend.
+Tenho 20 anos e sou desenvolvedor frontend.  
 Comecei minha jornada na programação em 2021 e desde então venho evoluindo com projetos próprios.
 
-Sou apaixonado por criar interfaces modernas, experiências intuitivas e sempre busco aprender novas tecnologias.
+Sou apaixonado por criar interfaces modernas e experiências intuitivas.
 
 ---
 
@@ -51,7 +54,7 @@ Sou apaixonado por criar interfaces modernas, experiências intuitivas e sempre 
 ## 📬 Contato
 
 <p align="center">
-  <a href="mailto:kahiquedev@@gmail.com">
+  <a href="mailto:SEUEMAIL@email.com">
     <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
@@ -59,7 +62,7 @@ Sou apaixonado por criar interfaces modernas, experiências intuitivas e sempre 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="https://wa.me/5511961674016">
+  <a href="https://wa.me/55SEUNUMERO">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </p>
