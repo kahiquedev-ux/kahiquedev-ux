@@ -1,14 +1,12 @@
-<img src="https://raw.githubusercontent.com/kahiquedev-ux/kahiquedev-ux/main/assets/banner.png" />
+<<h1 align="center">Olá! Eu sou Kahique Smith 👋</h1>
 
-<h1 align="center">Olá! Eu sou Kahique Smith👋</h1>
+<img src="https://raw.githubusercontent.com/kahiquedev-ux/kahiquedev-ux/main/assets/banner.png" />
 
 <p align="center">
   💻 Desenvolvedor Frontend <br/>
   🎨 Focado em UI/UX <br/>
   🚀 Apaixonado por tecnologia
 </p>
-
----
 
 ## 🧠 Sobre mim
 
