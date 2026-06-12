@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou Kahique 👋</h1>
 
 <p align="center">
-  💻 Desenvolvedor Frontend <br/>
+  💻 Desenvolvedor FullStack<br/>
   🎨 Focado em UI/UX <br/>
   🚀 Apaixonado por tecnologia
 </p>
@@ -13,7 +13,7 @@
 
 ## 🧠 Sobre mim
 
-Tenho 20 anos e sou desenvolvedor frontend.  
+Tenho 20 anos e sou desenvolvedor FullStack.  
 Comecei minha jornada na programação em 2021 e desde então venho evoluindo com projetos próprios.
 
 Sou apaixonado por criar interfaces modernas e experiências intuitivas.
